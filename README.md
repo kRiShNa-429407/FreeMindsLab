@@ -4,4 +4,10 @@
  
  Whether you're a student, a lifelong learner, or just curious about AI, FreeMindsLab is here to support your learning journey—anytime, anywhere.
 
+
+
 ### Stay Tuned!!
+
+Follow this project on LinkedIn: 
+
+Join our Discord The ML Spot https://discord.gg/W28pnYgwNB
