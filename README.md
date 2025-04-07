@@ -8,6 +8,6 @@
 
 ### Stay Tuned!!
 
-Follow this project on LinkedIn: 
+Follow this project on LinkedIn: https://www.linkedin.com/company/freemindslab/
 
 Join our Discord The ML Spot https://discord.gg/W28pnYgwNB
